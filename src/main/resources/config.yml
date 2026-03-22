@@ -1,0 +1,6 @@
+# Steuerung der Locator Bar.
+# true  = Locator Bar bleibt aktiv
+# false = Locator Bar wird in allen Welten deaktiviert
+locator-bar:
+  enabled: false
+
