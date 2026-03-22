@@ -28,15 +28,6 @@ Build im Projektordner:
 mvn clean package
 ```
 
-Oder mit deinem festen Maven-Pfad unter Windows:
-
-```powershell
-Set-Location "C:\Users\PC\IdeaProjects\BedrockCombact"
-& "C:\temp\apache-maven-3.9.14\bin\mvn.cmd" clean package
-```
-
-Falls `mvn` auf deinem System nicht im `PATH` ist, kannst du Maven entweder installieren oder über deine IDE bauen.
-
 ## Installation
 
 1. Die erzeugte JAR aus `target/` in den `plugins/`-Ordner deines Servers kopieren.
