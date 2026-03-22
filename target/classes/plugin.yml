@@ -1,0 +1,4 @@
+name: BedrockCombact
+version: '1.0-SNAPSHOT'
+main: at.jason.bedrockCombact.BedrockCombact
+api-version: '1.21'
